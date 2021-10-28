@@ -1,6 +1,5 @@
 package com.artemisa;
 
-import static org.junit.jupiter.api.Assertions.*;
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.Test;
 
@@ -8,6 +7,8 @@ import java.math.BigInteger;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 @Log4j2
 public class InterviewTest {
